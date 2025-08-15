@@ -10,9 +10,9 @@ Este repositório contém uma série de exercícios práticos em Java utilizando
 - **Conceitos Aprendidos:** Personalização de cores, bordas com título, posicionamento manual (`setBounds`) e adição de componentes a painéis.
 
 ### Exercicio2.java - JTabbedPane
-- **Objetivo:** Criar uma janela com abas contendo diferentes painéis, demonstrando navegação entre seções e uso de ícones em abas.
-- **Componentes Utilizados:** `JFrame`, `JTabbedPane`, `JPanel`, `JLabel`, `JTextField`, `ImageIcon`.
-- **Conceitos Aprendidos:** Criação de abas, organização de conteúdo em painéis, adição de ícones às abas e personalização de cores.
+- **Objetivo:** Criar uma janela com abas contendo diferentes painéis, demonstrando navegação entre seções.
+- **Componentes Utilizados:** `JFrame`, `JTabbedPane`, `JPanel`, `JLabel`, `JTextField`.
+- **Conceitos Aprendidos:** Criação de abas, organização de conteúdo em painéis e personalização de cores.
 
 ### Exercicio3.java - JScrollPane e JTextArea
 - **Objetivo:** Criar uma área de texto com barras de rolagem, garantindo visibilidade de conteúdo extenso.
